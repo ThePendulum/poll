@@ -1,0 +1,22 @@
+{
+  "name": "poll",
+  "version": "1.0.0",
+  "description": "Open ended poll utility",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThePendulum/poll.git"
+  },
+  "keywords": [
+    "poll"
+  ],
+  "author": "Niels Simenon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThePendulum/poll/issues"
+  },
+  "homepage": "https://github.com/ThePendulum/poll#readme"
+}
